@@ -19,11 +19,9 @@
 
 ## 🎓 Formação
 
-- 🎓 Cursando **Tecnologia em Sistemas para Internet**  
-  na :contentReference[oaicite:1]{index=1}  
+- 🎓 Cursando **Tecnologia em Sistemas para Internet**
 
-- 🏫 Ensino Médio Técnico em **Informática para Internet**  
-  no :contentReference[oaicite:2]{index=2}  
+- 🏫 Ensino Médio Técnico em **Informática para Internet**
 
 ---
 
